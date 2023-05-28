@@ -2,7 +2,9 @@
 
 Hey all! My name is Eric and I hail from Canada.
 
-I am currently learning to be a Full-Stack Web Developer.
+I am currently learning: 
+  - Python 3.x and the pygame library 
+  - C++ with learnCPP.com.
 
 ### Some interests include:
 ---
