@@ -3,9 +3,7 @@
 Hey all! My name is Eric and I hail from Canada.
 
 I am currently learning: 
-  - Javascript
-  - Express
-  - EJS
+  -C++
 
 ### Some interests include:
 ---
