@@ -2,8 +2,7 @@
 
 Hey all! My name is Eric and I hail from Canada.
 
-I am currently learning: 
-  -C++
+I am currently learning: C++
 
 ### Some interests include:
 ---
